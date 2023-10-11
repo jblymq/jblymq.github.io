@@ -1,8 +1,8 @@
 ---
-sort: 2
+sort: 3
 ---
 
-# Code Language
+# Code Management
 
 There are two ways to install:
 

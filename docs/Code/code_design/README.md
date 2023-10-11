@@ -1,8 +1,8 @@
 ---
-sort: 4
+sort: 2
 ---
 
-# Code Management
+# Code Design
 
 There are two ways to install:
 

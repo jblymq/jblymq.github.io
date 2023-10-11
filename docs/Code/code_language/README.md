@@ -2,7 +2,7 @@
 sort: 3
 ---
 
-# Code Design
+# Code Language
 
 There are two ways to install:
 
